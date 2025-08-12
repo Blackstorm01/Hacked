@@ -1,2 +1,2 @@
-# Hacked
-Nashama 8
+# the server Hacked by Alamas
+## Nashama 8
